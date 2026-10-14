@@ -1,100 +1,88 @@
-# 👋 Hi, I'm Kavin Raju K!
+# 👋 Hi, I'm Kavin Raju K
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Aspiring+Software+Developer;Java+Developer+%7C+Full+Stack+Learner;500%2B+LeetCode+Problems+Solved;Building+Projects+and+Learning+Every+Day!" alt="Animated typing introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Aspiring+DevOps+Engineer;Java+Developer+%7C+Cloud+%26+Automation+Learner;Learning+CI%2FCD+and+Infrastructure+as+Code;Automate+%E2%80%A2+Deploy+%E2%80%A2+Monitor" alt="Animated DevOps introduction"/>
 
 <br/>
 
-<a href="https://github.com/Kavin8005">
-  <img src="https://img.shields.io/badge/GitHub-Kavin8005-181717?style=for-the-badge&logo=github" alt="GitHub"/>
-</a>
-<a href="https://www.linkedin.com/in/kavin-raju-703395349/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
-</a>
-<a href="https://leetcode.com/u/Kavin_Raju/">
-  <img src="https://img.shields.io/badge/LeetCode-500%2B_Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
-</a>
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0f172a,50:1d4ed8,100:06b6d4&height=8&section=header" width="100%" alt="Blue gradient banner"/>
 
 </div>
-
----
 
 ## 🚀 About Me
 
-```java
-public class KavinRaju {
+- 🎓 B.Tech Information Technology student (2023–2027).
+- 💻 Interested in DevOps, Java development, and cloud technologies.
+- 🌱 Exploring automation, CI/CD pipelines, containers, and deployment.
+- 🧩 Solved 500+ coding problems on LeetCode.
+- 🎯 Goal: Build reliable applications and learn modern software delivery practices.
+- 📍 Coimbatore, Tamil Nadu, India.
 
-    static String role = "Aspiring Software Developer";
-    static String degree = "B.Tech Information Technology";
-    static String college = "VSB College of Engineering Technical Campus";
-    static String location = "Coimbatore, Tamil Nadu, India";
-
-    static String[] skills = {
-        "Java", "HTML", "CSS", "JavaScript",
-        "Spring Boot", "SQL"
-    };
-
-    static String goal =
-        "Build useful applications and become a skilled Software Engineer";
-
-    public static void main(String[] args) {
-        System.out.println("Welcome to my GitHub profile!");
-    }
-}
-```
-
-- 🎓 B.Tech Information Technology student (2023–2027)
-- 💻 Interested in Java and full-stack development
-- 🧠 Solved 500+ problems on LeetCode
-- 🌱 Always learning and improving my coding skills
-- 🏀 District-level basketball player
-- 🎯 Focused on building real-world software projects
-
----
-
-## 💻 Tech Stack
+## 🛠️ DevOps & Technology Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,html,css,js,spring,mysql,git,github,vscode&theme=dark" alt="Technology skills"/>
+### Programming & Web Development
+
+<img src="https://skillicons.dev/icons?i=java,html,css,js&theme=dark" alt="Programming technologies"/>
+
+### DevOps & Automation
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,jenkins,linux,bash&theme=dark" alt="DevOps tools"/>
+
+### Cloud & Infrastructure
+
+<img src="https://skillicons.dev/icons?i=aws,azure,terraform,kubernetes,ansible&theme=dark" alt="Cloud and infrastructure tools"/>
+
+### Development Tools
+
+<img src="https://skillicons.dev/icons?i=vscode,mysql,spring&theme=dark" alt="Development tools"/>
 
 </div>
 
----
+> Note: The DevOps, cloud, and infrastructure tools above represent technologies to explore. Keep them in your skills list as proficient technologies only after you have practiced them.
 
-## 🔥 Featured Projects
+## ⚙️ What I'm Learning
 
-### 🎓 Smart Online Exam Registration System
-**Tech:** Java · OOP · SQL
+- 🔄 **CI/CD:** Automating build, test, and deployment workflows.
+- 🐳 **Docker:** Packaging applications into containers.
+- ☁️ **Cloud Computing:** Understanding cloud services and deployment.
+- 🐧 **Linux:** Command-line tools, permissions, and server basics.
+- 🏗️ **Infrastructure as Code:** Learning Terraform and infrastructure automation.
+- 📈 **Monitoring:** Understanding application health, logs, and performance.
 
-- Student exam registration and course management.
-- Fee verification and hall ticket generation.
-- Designed to reduce manual paperwork.
+## 📂 Projects
 
-### 🛒 ShopNova — E-commerce Website
-**Tech:** HTML · CSS · JavaScript
+### ☕ Java Application Development
 
-- Responsive e-commerce website.
-- Dynamic product displays.
-- Shopping cart with real-time price updates.
+- Developing Java applications using object-oriented programming.
+- Exploring backend development and database integration.
 
-### 🧠 AI Second Brain
-**Tech:** React · Node.js · Vector Embeddings · LLM API
+### 🔄 DevOps CI/CD Pipeline — Learning Project
 
-- Developer knowledge management platform.
-- Resource tracking and data insights.
-- Natural-language semantic search.
+**Planned tools:** GitHub Actions, Java, Maven, Docker.
 
----
+- Automate Java application builds.
+- Run tests whenever code is pushed.
+- Build a Docker image.
+- Learn how to deploy an application to a server.
 
-## 📊 GitHub Statistics
+### 🌐 Personal Portfolio Website
+
+**Technologies:** HTML, CSS, JavaScript, GitHub.
+
+- Create a responsive developer portfolio.
+- Showcase projects, technical skills, and achievements.
+- Practice version control and website deployment.
+
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Kavin8005&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Kavin8005&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics"/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kavin8005&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kavin8005&layout=compact&theme=tokyonight&hide_border=true" alt="Most used programming languages"/>
 
 <br/>
 
@@ -102,68 +90,33 @@ public class KavinRaju {
 
 </div>
 
----
+## 🏆 Achievements
 
-## 🏆 Coding Profiles
+- 💻 Solved 500+ coding problems on LeetCode.
+- 🏀 District-level basketball player.
+- 📚 Continuously learning software development and modern engineering practices.
 
-<div align="center">
-
-<a href="https://leetcode.com/u/Kavin_Raju/">
-  <img src="https://img.shields.io/badge/LeetCode-500%2B_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
-</a>
-
-<a href="https://github.com/Kavin8005">
-  <img src="https://img.shields.io/badge/GitHub-Explore_My_Projects-181717?style=for-the-badge&logo=github" alt="GitHub projects"/>
-</a>
-
-</div>
-
----
-
-## 💼 Internship Experience
+## 💼 Experience
 
 **Java Full Stack Development Intern — Grantley Edutech**  
 *January 2025 – March 2025*
 
-- Worked with Java, HTML, CSS, JavaScript, and Spring Boot.
-- Gained practical exposure to project development and backend integration.
+- Gained practical exposure to Java, HTML, CSS, JavaScript, and Spring Boot.
+- Worked on application development and backend integration.
 
 **Python Developer Intern — Codec Technologies Pvt. Ltd.**  
 *June 2025 – July 2025*
 
 - Completed a Python development internship.
 
----
-
-## 📜 Certifications
-
-- Java SE 8 Features — Infosys Springboard
-- AI Foundation, Career Edge — TCS iON
-- Python 101 for Data Science — IBM
-- TechTrek — Full Stack Development Seminar
-- Artificial Intelligence Boot Camp — NoviTech R&D
-
----
-
 ## 🌐 Connect With Me
 
 <div align="center">
 
-<a href="mailto:kavinraju0108@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-
-<a href="https://www.linkedin.com/in/kavin-raju-703395349/">
-  <img src="https://img.shields.io/badge/LinkedIn-Kavin_Raju-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
-</a>
-
-<a href="https://github.com/Kavin8005">
-  <img src="https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github" alt="GitHub"/>
-</a>
-
-<a href="https://leetcode.com/u/Kavin_Raju/">
-  <img src="https://img.shields.io/badge/LeetCode-My_Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
-</a>
+<a href="https://github.com/Kavin8005"><img src="https://img.shields.io/badge/GitHub-Kavin8005-181717?style=for-the-badge&logo=github" alt="GitHub"/></a>
+<a href="https://www.linkedin.com/in/kavin-raju-703395349/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
+<a href="https://leetcode.com/u/Kavin_Raju/"><img src="https://img.shields.io/badge/LeetCode-500%2B_Solved-FFA116?style=for-the-badge&logo=leetcode" alt="LeetCode"/></a>
+<a href="mailto:kavinraju0108@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail" alt="Email"/></a>
 
 </div>
 
@@ -171,8 +124,8 @@ public class KavinRaju {
 
 <div align="center">
 
-### ⚡ "Code. Learn. Build. Repeat." ⚡
+### ⚡ Automate. Deploy. Monitor. Improve. ⚡
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00F7FF&height=120&section=footer" width="100%" alt="Animated footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:1d4ed8,100:0f172a&height=120&section=footer" width="100%" alt="Gradient footer"/>
 
 </div>
